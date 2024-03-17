@@ -26,7 +26,7 @@ O objetivo é conhecer as principais técnicas de Aprendizado de Máquina (Machi
     * Demonstração da leitura de arquivos em modo texto com valores faltantes (missing values).
     * Demonstração da tabela e informações básicas com valores faltantes.
   * Imputando Valores Faltantes.
-    * Tratar os dados de modo que os valores faltantes passem a não existirem.
+    * Tratar os dados de modo que os valores faltantes passem a não existir.
   * Eliminação de Colunas.
     * Demonstração de eliminação de coluna quando a imputação de dados se mostrar ineficiente por serem muitos dados faltantes.
   * Transformando a escala dos dados.
